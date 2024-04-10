@@ -1,5 +1,4 @@
 java
 SQL
 spring boot
-##############The current changes are from dev branch 
-##############Discarding changes 
+##############The current changes are from dev branch
